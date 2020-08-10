@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.nifcompany.kingboard.keyboard.LatinKeyboardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:keyBackground="@drawable/key_background"
+    android:keyPreviewLayout="@layout/key_preview_layout"
+    android:keyPreviewOffset="@dimen/keyPreviewOffset"
+    android:keyTextColor="@color/white"
+    android:paddingBottom="4dp"
+    android:popupLayout="@layout/keyboard_popup_layout" >
+</com.nifcompany.kingboard.keyboard.LatinKeyboardView>

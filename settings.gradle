@@ -1,0 +1,3 @@
+include ':supernova-emoji-library'
+include ':app'
+rootProject.name = "KingBoard"
